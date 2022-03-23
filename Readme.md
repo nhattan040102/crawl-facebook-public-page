@@ -1,10 +1,10 @@
-#About the project
+# About the project
 
 This project implement facebook-scraper api to crawl post data from a public facebook page 
 About facebook-scraper, <a href="https://github.com/kevinzg/facebook-scraper"> click here</a> for more detail!!
 
-#Getting started
-##Installation
+# Getting started
+## Installation
 - Clone project from Github
     ```
     git clone https://github.com/nhattan040102/crawl-facebook-public-page.git
