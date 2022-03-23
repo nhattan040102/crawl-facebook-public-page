@@ -43,7 +43,7 @@ def write_file(post_data, file_name):
 if __name__ == "__main__":
     # page_name, page_num = readParams()
     page_name = "ConfessionUIT"
-    page_num = 5
+    page_num = 2
     file_name = "result.txt"
     with open(f"{file_name}", 'w') as file:
         crawling_post(page_name, page_num, file)
